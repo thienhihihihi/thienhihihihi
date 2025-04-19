@@ -1,5 +1,12 @@
 ## Hi there, I'm CHE VIET THIEN (feel free to call me Thien or use CVT as a short form in text) 👋
 
+An enthusiastic intern from Ho Chi Minh University of Technology—Viet Nam National University (Bach Khoa University or HCMUT-VNU). I have a strong interest in AI Engineering (Computer Vision, Machine/Deep Learning, Natural Language Processing), Data Science.
+### 📌 **About Me**
+- 🔭 I'm currently involved in projects focused on **IC design, IoT, and embedded systems**.
+- 🌱 I'm currently learning about **IC design, PCB design, IoT, and embedded systems**.
+- 💬 Ask me about **Verilog, IoT systems, components in PCB**.
+- 📫 How to reach me: **thinh.le2213278@hcmut.edu.vn**
+- ⚡ Fun fact: I see myself as someone with a good sense of humor and a friendly demeanor
 <!--
 **thienhihihihi/thienhihihihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

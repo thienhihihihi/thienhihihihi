@@ -13,23 +13,29 @@ An enthusiastic intern from Ho Chi Minh University of Technology—Viet Nam Nati
 
 
 
-## Languages and Tools:
+### 🛠️ Languages and Tools:
+
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/matlab/matlab-icon.svg" alt="Matlab" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/matlab/matlab-icon.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 </p>
 
-## 📊 Most Used Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LELOCQUOCTHINH&layout=compact&langs_count=8&hide=javascript,css)](https://github.com/LELOCQUOCTHINH)
+---
 
-## 🔥 LELOCQUOCTHINH's GitHub Stats:
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=LELOCQUOCTHINH&show_icons=true&count_private=true&theme=default)
-<!--
+### 📊 Most Used Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thienhihihihi&layout=compact&langs_count=8)](https://github.com/thienhihihihi)
+
+---
+
+### 🚀 GitHub Stats:
+[![Thien's GitHub stats](https://github-readme-stats.vercel.app/api?username=thienhihihihi&show_icons=true&theme=default)](https://github.com/thienhihihihi)
+
+---
 **thienhihihihi/thienhihihihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:

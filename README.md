@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there, I'm CHE VIET THIEN (feel free to call me Thien or use CVT as a short form in text) 👋
 
 <!--
 **thienhihihihi/thienhihihihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

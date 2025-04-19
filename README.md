@@ -2,10 +2,10 @@
 
 An enthusiastic intern from Ho Chi Minh University of Technology—Viet Nam National University (Bach Khoa University or HCMUT-VNU). I have a strong interest in AI Engineering (Computer Vision, Machine/Deep Learning, Natural Language Processing), Data Science.
 ### 📌 **About Me**
-- 🔭 I'm currently involved in projects focused on **IC design, IoT, and embedded systems**.
-- 🌱 I'm currently learning about **IC design, PCB design, IoT, and embedded systems**.
-- 💬 Ask me about **Verilog, IoT systems, components in PCB**.
-- 📫 How to reach me: **thinh.le2213278@hcmut.edu.vn**
+- 🔭 I’m currently involved in projects focused on AI engineering, machine learning, and deep learning applications.
+- 🌱  I’m seeking assistance or collaboration on projects involving computer vision, NLP.
+- 👯 I’m eager to collaborate on projects or roles related to building practical AI systems using Python and PyTorch/TensorFlow.
+- 📫 How to reach me: **thien.cheviet1404@hcmut.edu.vn**
 - ⚡ Fun fact: I see myself as someone with a good sense of humor and a friendly demeanor
 <!--
 **thienhihihihi/thienhihihihi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
